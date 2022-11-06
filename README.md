@@ -2,7 +2,6 @@
 
 (https://www.patika.dev/tr) - proje 2 - merge sort 
 
-https://www.patika.dev/tr
 
 [16,21,11,8,12,22] -> merge sort dizinin sort türüne göre aşaması ve big-O gösterimi;
 
