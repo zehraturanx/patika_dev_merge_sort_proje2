@@ -1,4 +1,5 @@
 # patika_dev_merge_sort_proje2
+
 [Patika.dev](https://www.patika.dev/tr) - proje 2 - merge sort 
 
 https://www.patika.dev/tr
